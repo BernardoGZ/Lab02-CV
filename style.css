@@ -16,7 +16,7 @@ span{
 }
 .sub{
     text-decoration: underline;
-
+    margin-left: 10pt;
 }
 .redItems{
     list-style: none;
